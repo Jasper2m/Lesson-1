@@ -1,0 +1,1 @@
+print("Bawi ta midterm")

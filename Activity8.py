@@ -1,0 +1,1 @@
+print("Atong grado naunsa nakaha")

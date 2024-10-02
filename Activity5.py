@@ -1,0 +1,1 @@
+print("Bokut ta habol")
